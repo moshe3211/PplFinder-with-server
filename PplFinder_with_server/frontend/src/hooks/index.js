@@ -1,0 +1,1 @@
+export { usePeopleFetch } from "./usePeopleFetch";
