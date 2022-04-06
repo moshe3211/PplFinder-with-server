@@ -11,6 +11,6 @@
     npm install
     npm start
     
-# fix vulnerability issues
+#  to fix vulnerability issues
 visit : https://github.com/facebook/create-react-app/issues/11174
  
